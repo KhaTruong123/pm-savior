@@ -1,6 +1,6 @@
 ---
 name: slides
-description: "Create an HTML slide deck for stakeholder presentations, sprint reviews, pitch decks, or product demos. Use when asked to 'create a deck', 'stakeholder presentation', 'sprint review slides', 'pitch this to leadership', or 'build a slide deck'."
+description: "Create an HTML slide deck for stakeholder presentations, sprint reviews, pitch decks, or product demos. Use when asked to 'create a deck', 'make a slide deck', 'stakeholder presentation', 'N-slide deck', 'sprint review slides', 'pitch this to leadership', or 'build a slide deck'."
 license: MIT
 attribution: "Adapted from ClaudeKit Engineer's slides skill — https://github.com/claudekit/claudekit-engineer (MIT)"
 argument-hint: "[topic] [slide-count] [audience]"
