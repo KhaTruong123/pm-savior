@@ -44,21 +44,21 @@ done
 **Or copy a single skill:**
 
 ```bash
-cp -r ~/pm-savior/skills/plan ~/.claude/skills/
+cp -r ~/pm-savior/skills/pm-plan ~/.claude/skills/
 ```
 
 **To overwrite an existing skill (reinstall/upgrade):**
 
 ```bash
-rm -rf ~/.claude/skills/plan
-cp -r ~/pm-savior/skills/plan ~/.claude/skills/
+rm -rf ~/.claude/skills/pm-plan
+cp -r ~/pm-savior/skills/pm-plan ~/.claude/skills/
 ```
 
 ---
 
 ## Step 3 — Verify
 
-Open Claude Code in any directory and type `/` — you should see `pm:plan`, `pm:brainstorm`, etc. in the skill list.
+Open Claude Code in any directory and type `/` — you should see `pm-plan`, `pm-brainstorm`, etc. in the skill list.
 
 ---
 

@@ -31,16 +31,16 @@ A personal collection of Claude Code skills for Product Managers and Business An
 
 | Skill | What it does | Example prompt |
 |---|---|---|
-| `pm:brainstorm` | Explore options with trade-off analysis and honest challenge | "Explore options for our onboarding process redesign" |
-| `pm:plan` | Break an initiative into phases with clear deliverables | "Plan this initiative: launch a new B2B pricing tier" |
-| `pm:cook` | Execute a plan phase, producing PM artifacts (docs, tables, analysis) | "Execute phase-01 of the market research plan" |
-| `pm:research` | Structured market, vendor, or domain research with a cited report | "Research competitor pricing models in fintech APAC" |
-| `pm:sequential-thinking` | Step-by-step reasoning for complex decisions | "Think through step by step: should we delay the launch?" |
-| `pm:test-case-generator` | Generate acceptance criteria and requirement gap analysis | "Write test cases for this requirement: users can export reports" |
-| `pm:requirement-risk-review` | 5-persona stress-test of a spec before committing | "Review this requirement before we commit to the sprint" |
-| `pm:diagrams-mermaid` | Create Mermaid diagrams: user journeys, flows, Gantt, state | "Draw the user journey for onboarding a new enterprise client" |
-| `pm:slides` | Build stakeholder presentation slides | "Create a deck for the Q3 initiative review" |
-| `pm:progress-tracker` | Track plan progress across sessions, sync checkboxes | "Check plan status for the pricing launch plan" |
+| `pm-brainstorm` | Explore options with trade-off analysis and honest challenge | "Explore options for our onboarding process redesign" |
+| `pm-plan` | Break an initiative into phases with clear deliverables | "Plan this initiative: launch a new B2B pricing tier" |
+| `pm-cook` | Execute a plan phase, producing PM artifacts (docs, tables, analysis) | "Execute phase-01 of the market research plan" |
+| `pm-research` | Structured market, vendor, or domain research with a cited report | "Research competitor pricing models in fintech APAC" |
+| `pm-sequential-thinking` | Step-by-step reasoning for complex decisions | "Think through step by step: should we delay the launch?" |
+| `pm-test-case-generator` | Generate acceptance criteria and requirement gap analysis | "Write test cases for this requirement: users can export reports" |
+| `pm-requirement-risk-review` | 5-persona stress-test of a spec before committing | "Review this requirement before we commit to the sprint" |
+| `pm-diagrams-mermaid` | Create Mermaid diagrams: user journeys, flows, Gantt, state | "Draw the user journey for onboarding a new enterprise client" |
+| `pm-slides` | Build stakeholder presentation slides | "Create a deck for the Q3 initiative review" |
+| `pm-progress-tracker` | Track plan progress across sessions, sync checkboxes | "Check plan status for the pricing launch plan" |
 
 ---
 
