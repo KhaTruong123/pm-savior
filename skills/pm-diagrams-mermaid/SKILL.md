@@ -1,5 +1,5 @@
 ---
-name: diagrams-mermaid
+name: pm-diagrams-mermaid
 description: "Create text-based diagrams using Mermaid.js v11 syntax. Use when asked to 'draw the user journey', 'process flow', 'approval flow', 'roadmap timeline', 'sequence diagram', or 'flowchart'. Outputs inline Mermaid code blocks ready for GitHub, Notion, or any markdown viewer."
 license: MIT
 attribution: "Adapted from ClaudeKit Engineer's mermaidjs-v11 skill — https://github.com/claudekit/claudekit-engineer (MIT)"

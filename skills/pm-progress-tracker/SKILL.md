@@ -1,5 +1,5 @@
 ---
-name: progress-tracker
+name: pm-progress-tracker
 description: "Track progress across plan phases, generate a status report, and resume multi-session work. Use when asked for 'plan status', 'where are we', 'progress report', 'what's done', 'resume the plan', or 'what's left in phase X'."
 license: MIT
 attribution: "Adapted from ClaudeKit Engineer's project-management skill — https://github.com/claudekit/claudekit-engineer (MIT)"

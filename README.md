@@ -27,6 +27,20 @@ A personal collection of Claude Code skills for Product Managers and Business An
 
 ---
 
+## Where to Start
+
+You don't need all 10 skills on day one. Install the core 3 first:
+
+| Tier | Skills | When to add |
+|---|---|---|
+| **Core (start here)** | `pm-plan`, `pm-cook`, `pm-brainstorm` | Day 1 — the plan→cook loop covers most PM work |
+| **Task skills** | `pm-test-case-generator`, `pm-requirement-risk-review`, `pm-diagrams-mermaid`, `pm-slides` | Add when you need QA scenarios, spec stress-testing, diagrams, or stakeholder decks |
+| **Power user** | `pm-research`, `pm-sequential-thinking`, `pm-progress-tracker` | Add for deep research, complex reasoning, or multi-session plan tracking |
+
+Or just install all 10 at once — they're markdown files, the footprint is negligible.
+
+---
+
 ## Skill Catalog
 
 | Skill | What it does | Example prompt |
@@ -60,4 +74,4 @@ A personal collection of Claude Code skills for Product Managers and Business An
 MIT — see [LICENSE](LICENSE).
 
 Portions adapted from ClaudeKit Engineer (MIT) — https://github.com/claudekit/claudekit-engineer.
-test-case-generator and requirement-risk-review patterns also adapted from autoresearch by Udit Goenka (MIT).
+pm-test-case-generator and pm-requirement-risk-review patterns also adapted from autoresearch by Udit Goenka (MIT).

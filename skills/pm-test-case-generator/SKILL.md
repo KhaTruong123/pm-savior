@@ -1,5 +1,5 @@
 ---
-name: test-case-generator
+name: pm-test-case-generator
 description: "Generate structured test cases and edge case lists from a requirement, user story, or acceptance criteria. Use when asked to 'write test cases', 'create QA scenarios', 'edge cases for this requirement', 'acceptance tests', or 'QA checklist'."
 license: MIT
 attribution: "Adapted from ClaudeKit Engineer's ck-scenario skill — https://github.com/claudekit/claudekit-engineer (MIT)"

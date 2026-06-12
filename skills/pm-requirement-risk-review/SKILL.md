@@ -1,5 +1,5 @@
 ---
-name: requirement-risk-review
+name: pm-requirement-risk-review
 description: "Five PM personas stress-test a requirement or feature spec before it is built. Use when asked to 'review this spec', 'review this requirement', 'what could go wrong with this feature', 'what could go wrong with this spec', 'stress test this spec', or 'find the risks in this PRD section'."
 license: MIT
 attribution: "Adapted from ClaudeKit Engineer's ck-predict skill — https://github.com/claudekit/claudekit-engineer (MIT)"
